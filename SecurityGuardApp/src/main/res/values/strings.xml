@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Security Guard</string>
+    
+    <!-- Main Activity -->
+    <string name="dashboard_title">Security Dashboard</string>
+    <string name="security_status">Security Status</string>
+    <string name="device_secure">Device Secure</string>
+    <string name="security_issues_detected">Security Issues Detected</string>
+    <string name="last_scan">Last scan: %s</string>
+    <string name="threats_detected">%d threats detected</string>
+    
+    <!-- Features -->
+    <string name="security_features">Security Features</string>
+    <string name="threat_detection">Threat Detection</string>
+    <string name="threat_detection_desc">Monitor for malware and suspicious apps</string>
+    <string name="network_monitor">Network Monitor</string>
+    <string name="network_monitor_desc">Track network connections and data</string>
+    <string name="app_permissions">App Permissions</string>
+    <string name="app_permissions_desc">Audit app permissions and privacy</string>
+    <string name="intruder_detection">Intruder Detection</string>
+    <string name="intruder_detection_desc">Capture unauthorized access attempts</string>
+    <string name="settings">Settings</string>
+    <string name="settings_desc">Configure security preferences</string>
+    
+    <!-- Threat Detection -->
+    <string name="start_security_scan">Start Security Scan</string>
+    <string name="scanning">Scanning...</string>
+    <string name="scan_complete">Scan Complete</string>
+    <string name="no_threats_found">No threats found</string>
+    <string name="threats_found">%d threats found</string>
+    
+    <!-- Network Monitoring -->
+    <string name="network_monitoring">Network Monitoring</string>
+    <string name="wifi_connections">WiFi Connections</string>
+    <string name="cellular_connections">Cellular Connections</string>
+    <string name="secure_connection">Secure Connection</string>
+    <string name="insecure_connection">Insecure Connection</string>
+    
+    <!-- Permissions -->
+    <string name="permission_audit">Permission Audit</string>
+    <string name="risky_permissions">Risky Permissions</string>
+    <string name="app_permission_analysis">App Permission Analysis</string>
+    
+    <!-- Intruder Detection -->
+    <string name="enable_intruder_detection">Enable Intruder Detection</string>
+    <string name="disable_intruder_detection">Disable Intruder Detection</string>
+    <string name="intruder_detection_active">Intruder detection is active</string>
+    <string name="intruder_detection_inactive">Intruder detection is inactive</string>
+    
+    <!-- Settings -->
+    <string name="security_settings">Security Settings</string>
+    <string name="grant_usage_permission">Grant Usage Access Permission</string>
+    <string name="grant_overlay_permission">Grant Overlay Permission</string>
+    <string name="enable_notifications">Enable Security Notifications</string>
+    <string name="scan_frequency">Scan Frequency</string>
+    <string name="continuous_monitoring">Continuous Monitoring</string>
+    
+    <!-- Threats -->
+    <string name="suspicious_app">Suspicious App</string>
+    <string name="rooted_device">Rooted Device</string>
+    <string name="debug_mode">Debug Mode</string>
+    <string name="unknown_sources">Unknown Sources</string>
+    <string name="malware_detected">Malware Detected</string>
+    <string name="network_threat">Network Threat</string>
+    <string name="sim_swap_detected">SIM Swap Detected</string>
+    
+    <!-- Notifications -->
+    <string name="security_alert">Security Alert</string>
+    <string name="device_compromised">Device may be compromised</string>
+    <string name="suspicious_activity">Suspicious activity detected</string>
+    <string name="immediate_action_required">Immediate action required</string>
+    
+    <!-- Permissions Messages -->
+    <string name="camera_permission_required">Camera permission is required for intruder detection</string>
+    <string name="location_permission_required">Location permission is required for security monitoring</string>
+    <string name="usage_access_required">Usage access permission is required to monitor app activities</string>
+    <string name="overlay_permission_required">Overlay permission is required for security alerts</string>
+    
+    <!-- Reports -->
+    <string name="security_report">Security Report</string>
+    <string name="generate_report">Generate Security Report</string>
+    <string name="export_report">Export Report</string>
+    <string name="share_report">Share Report</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="refresh">Refresh</string>
+    <string name="clear">Clear</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="critical">Critical</string>
+    
+    <!-- Service -->
+    <string name="security_monitoring_active">Security monitoring active</string>
+    <string name="monitoring_your_device">Monitoring your device for security threats</string>
+</resources>
